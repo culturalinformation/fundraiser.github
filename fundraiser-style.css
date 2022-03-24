@@ -1,0 +1,57 @@
+body {
+  background: #112731 ;
+  color: #a9b6c3;
+  padding: 25px;
+  font-family: fantasy;
+}
+.jedi {
+  background: #cafafe;
+  color: #103030;
+  padding: 25px;
+  font-family: fantasy;
+}
+.summer {
+  background: #97caef;
+  color: #103030;
+  padding: 25px;
+  font-family: fantasy;
+}
+.hebrew {
+  background: #83a1cd;
+  color: #103030;
+  padding: 25px;
+  font-family: fantasy;
+}
+.allinchallenge {
+  background: #a7bed3;
+  color: white;
+  padding: 25px;
+}
+.celebrateblack {
+  background: #7a8ea1;
+  color: white;
+  padding: 25px;
+}
+a:link {
+  color: #1560bd;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #35668f;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333ecb;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
